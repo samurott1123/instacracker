@@ -16,7 +16,7 @@ Not as much as I would like ;)
 
 ### Does it work?
 
-Tests were ran with 1000 wrong passwords, the 1001th was the right one and it worked.
+Tests were run with 1000 wrong passwords, the 1001th was the right one and it worked.
 
 ### How long does it takes to break a password
 
