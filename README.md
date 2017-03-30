@@ -12,7 +12,7 @@ Instacracker is an instagram password cracker that uses tor as a proxy.
 
 ### Is it stable?
 
-Not as much as a would like ;)
+Not as much as I would like ;)
 
 ### Does it work?
 
@@ -20,11 +20,11 @@ Tests were ran with 1000 wrong passwords, the 1001th was the right one and it wo
 
 ### How long does it takes to break a password
 
-A lot of time (sorry about that)
+A lot of time (sorry about that).
 
 ### Did you report it to facebook?
 
-Yes, they said:
+Yes, and they said:
 
 Olá Luiz Guilherme,
 
@@ -35,7 +35,7 @@ While we might make changes to our login endpoints' rate limits in the future, w
 Agradecemos por entrar em contato com o Facebook.
 
 
-PS: A few improvements are commented but not implemented. Fell free do do it and make a pull request
+PS: A few improvements are commented but not implemented. Fell free to do it and make a pull request
 
 
 		
