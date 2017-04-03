@@ -212,7 +212,7 @@ def main():
 	attack_threads = []
 	thread1.start()
 	for i in range(tdNumber):
-		attack_threads.append( myThreadConsumer(i, "Thread-{}".format(i), i, lock1, lock2, lock3) )
+		attack_threads.append( myThreadConsumer(i, "Thread-{}".format(i), i, lock1, lock2, lock3, username) )
 		attack_threads[i].start()
 
 	#threads join
